@@ -1,1 +1,1 @@
-# WaterTrap-Hacktoberfest
+# WaterTrap-Hacktoberfest project
